@@ -1,0 +1,12 @@
+.style{
+    background-color: rgb(219, 101, 140);
+    color:rgb(33, 138, 195);
+}
+.pic{
+    display:block;
+    padding: 30px;;
+}
+.heading{
+    display: block;
+    border-left-width:120px;
+}
